@@ -20,6 +20,13 @@ public class AappiumTest {
 	{
 	
     	System.out.println("test passed IOSapp");
+    	System.out.println("test passed IOSapp1");
+    	System.out.println("test passed IOSapp2");
+    	System.out.println("test passed IOSapp3");
+    	System.out.println("test passed IOSapp4");
+    	System.out.println("test passed IOSapp5");
+    	
+    	
 	}
 	
 
