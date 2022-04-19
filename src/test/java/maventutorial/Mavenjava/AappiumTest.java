@@ -30,4 +30,14 @@ public class AappiumTest {
 	}
 	
 
+    @Test
+	public void ElementsUIRevised()
+	
+	{
+    	System.out.println("test passed ElementUI");
+    	System.out.println("test passed ElementUI1");
+    	System.out.println("test passed ElementUI2");
+	}
+	
+
 }

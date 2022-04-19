@@ -23,4 +23,14 @@ public class seleniumTest {
 	
 	
 
+    @Test
+	public void ElementsUINew()
+	
+	{
+    	System.out.println("test passed ElementUI");
+    	System.out.println("test passed ElementUI1");
+    	System.out.println("test passed ElementUI2");
+	}
+	
+
 }
