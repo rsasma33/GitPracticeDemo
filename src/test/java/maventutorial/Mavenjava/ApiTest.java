@@ -34,5 +34,16 @@ public class ApiTest {
 			System.out.println("test passed PostJira");
 			System.out.println("test passed PostJira");
 		}
+	    
+@Test
+		
+	    public void deletetwitterNewAmaricanTime()
+		
+		{
+	    	System.out.println("test passed DeleteTwitter");
+	    	System.out.println("test passed PostJira");
+			System.out.println("test passed PostJira");
+			System.out.println("test passed PostJira");
+		}
 	}
 	
