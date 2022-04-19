@@ -34,5 +34,5 @@ public class ApiTest {
 			System.out.println("test passed PostJira");
 			System.out.println("test passed PostJira");
 		}
-		}
 	}
+	
