@@ -11,6 +11,7 @@ public class AappiumTest {
 	
 	{
 	 System.out.println("testpassed AndroidAPP");
+	 System.out.println("testpassed AndroidAPP_Changes");
 	}
 	
     @Test
