@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-08T19:44:42 IST" name="Default suite" finished-at="2022-02-08T19:44:42 IST" duration-ms="156">
+    <groups>
+    </groups>
+    <test started-at="2022-02-08T19:44:42 IST" name="Default test" finished-at="2022-02-08T19:44:42 IST" duration-ms="156">
+      <class name="maventutorial.Mavenjava.ApiTest">
+        <test-method signature="Postjira()[pri:0, instance:maventutorial.Mavenjava.ApiTest@bae7dc0]" started-at="2022-02-08T19:44:42 IST" name="Postjira" finished-at="2022-02-08T19:44:42 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Postjira -->
+        <test-method signature="deletetwitter()[pri:0, instance:maventutorial.Mavenjava.ApiTest@bae7dc0]" started-at="2022-02-08T19:44:42 IST" name="deletetwitter" finished-at="2022-02-08T19:44:42 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletetwitter -->
+      </class> <!-- maventutorial.Mavenjava.ApiTest -->
+      <class name="maventutorial.Mavenjava.seleniumTest">
+        <test-method signature="BrowserAutomation()[pri:0, instance:maventutorial.Mavenjava.seleniumTest@6404f418]" started-at="2022-02-08T19:44:42 IST" name="BrowserAutomation" finished-at="2022-02-08T19:44:42 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method signature="ElementsUI()[pri:0, instance:maventutorial.Mavenjava.seleniumTest@6404f418]" started-at="2022-02-08T19:44:42 IST" name="ElementsUI" finished-at="2022-02-08T19:44:42 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ElementsUI -->
+      </class> <!-- maventutorial.Mavenjava.seleniumTest -->
+      <class name="maventutorial.Mavenjava.AappiumTest">
+        <test-method signature="AndroidApp()[pri:0, instance:maventutorial.Mavenjava.AappiumTest@3e11f9e9]" started-at="2022-02-08T19:44:42 IST" name="AndroidApp" finished-at="2022-02-08T19:44:42 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AndroidApp -->
+        <test-method signature="IOSapp()[pri:0, instance:maventutorial.Mavenjava.AappiumTest@3e11f9e9]" started-at="2022-02-08T19:44:42 IST" name="IOSapp" finished-at="2022-02-08T19:44:42 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSapp -->
+      </class> <!-- maventutorial.Mavenjava.AappiumTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
